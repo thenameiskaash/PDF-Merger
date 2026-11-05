@@ -2,7 +2,7 @@
 A desktop app to drag and drop PDF files and merge them into one.
 
 ## Download
-Go to Releases and download the latest installer.
+[**Download Latest Version**](https://github.com/thenameiskaash/PDF-Merger/releases/latest)
 
 ## How To Use
 1. Download and run the installer
